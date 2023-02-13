@@ -1,0 +1,15 @@
+.formsizew{
+    margin-top: 100px;
+    display: grid;
+    justify-content: center;
+    
+}
+
+.fillsizew{
+    width: 400px;
+}
+
+.withbut{
+    width: 350px;
+    height: 60px;
+}

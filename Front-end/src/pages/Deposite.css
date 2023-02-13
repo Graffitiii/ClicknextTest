@@ -1,0 +1,16 @@
+
+.formsize{
+    margin-top: 100px;
+    display: grid;
+    justify-content: center;
+    
+}
+
+.fillsize{
+    width: 400px;
+}
+
+.depobut{
+    width: 350px;
+    height: 60px;
+}

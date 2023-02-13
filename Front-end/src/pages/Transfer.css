@@ -1,0 +1,15 @@
+.formsizet{
+    margin-top: 100px;
+    display: grid;
+    justify-content: center;
+    
+}
+
+.fillsizet{
+    width: 400px;
+}
+
+.transbut{
+    width: 350px;
+    height: 60px;
+}

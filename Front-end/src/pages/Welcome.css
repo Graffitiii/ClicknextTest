@@ -1,0 +1,24 @@
+.centerT{
+    margin-top: 100px;
+}
+
+.centerT1{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+.centerpage{
+    display: grid;
+    justify-content: center;
+    
+}
+
+.centerB{
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50px;
+    width: 150px;
+    font-size: 20px;
+}

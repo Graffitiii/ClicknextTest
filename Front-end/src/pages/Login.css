@@ -1,0 +1,22 @@
+.background{
+    background-color: rgb(103, 81, 201);
+}
+
+.message{
+    color: red;
+}
+
+.headT{
+    margin-top: 100px;
+}
+
+.formbox{
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+
+.buttonsize{
+    width: 400px;
+    height: 50px;
+}
