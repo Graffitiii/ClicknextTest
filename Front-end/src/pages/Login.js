@@ -62,7 +62,7 @@ function Login() {
 
       <Form.Group className="mb-3" controlId="formBasicPassword">
         <Form.Label>Password</Form.Label>
-        <Form.Control type="text"  value={password} placeholder="Password" onChange={(e) => setPassword(e.target.value)}/>
+        <Form.Control type="password"  value={password} placeholder="Password" onChange={(e) => setPassword(e.target.value)}/>
       </Form.Group>
       
       
